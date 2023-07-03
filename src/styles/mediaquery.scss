@@ -95,20 +95,9 @@
     .footer{
         height: 50vh;
         grid-template-columns: 1fr;
-        padding: 5rem;
-        margin: 5rem 0 0 0;
 
         div{
             align-items: center;
-
-            h5{
-                font-size: 1.5rem;
-            }
-            div{
-                a{
-                    font-size: 0.5rem;
-                }
-            }
         }
     }
 }
