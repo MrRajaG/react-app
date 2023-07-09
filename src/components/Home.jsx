@@ -31,7 +31,7 @@ const Home = () => {
 		  <div className="home3" id='about'>
 			<div>
 				<h1>Who we are?</h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt maiores atque sequi quaerat cumque et deleniti illo tempore. Natus quaerat voluptas tenetur voluptate a iste quam accusantium culpa? Obcaecati corporis optio in magni consectetur, quo cum debitis. Perferendis, illo. Animi, placeat sit, reiciendis quod beatae et recusandae temporibus porro laboriosam, ipsam voluptatibus maiores? Nam vero doloribus minima est vitae corporis ex suscipit, commodi enim omnis ratione, assumenda repellat accusantium necessitatibus voluptatum perferendis. Aliquid numquam porro, facere delectus aspernatur quod corporis? Sapiente nobis corporis, praesentium illum voluptatum maiores quisquam animi architecto, quidem facilis asperiores.</p>
+				<p>Possessing a strong foundation in Frontend Development. I am dedicated to delivering exceptional outcomes and exceeding organizational goals. With a keen eye for detail and a strategic mindset, I consistently demonstrate the ability to streamline processes, optimize efficiency, and drive growth. Strong interpersonal and communication skills allow me to effectively collaborate with cross-functional teams and build strong relationships with clients and stakeholders. A self-motivated and proactive individual, I am ready to leverage my expertise and contribute to the success of a forward-thinking organization.</p>
 			</div>
 		  </div>
 
